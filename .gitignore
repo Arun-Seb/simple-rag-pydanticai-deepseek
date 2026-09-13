@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# vector database (rebuild with: python ingest.py data/your.pdf)
+chroma_db/
+
+# your source documents (don't commit copyrighted PDFs)
+data/*.pdf
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# model cache
+.cache/

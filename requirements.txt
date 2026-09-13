@@ -1,0 +1,6 @@
+pydantic-ai-slim[openai]>=2.43
+sentence-transformers>=3.0
+chromadb>=0.5
+pypdf>=4.0
+python-dotenv>=1.0
+streamlit>=1.36
