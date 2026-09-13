@@ -108,7 +108,7 @@ simple-rag-pydanticai-deepseek/
 
 ```bash
 # 1. Clone and enter
-git clone https://github.com/<your-username>/simple-rag-pydanticai-deepseek.git
+git clone https://github.com/Arun-Seb/simple-rag-pydanticai-deepseek.git
 cd simple-rag-pydanticai-deepseek
 
 # 2. Create an isolated environment
